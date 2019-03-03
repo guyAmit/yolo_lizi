@@ -4,7 +4,7 @@ in this repo we have implamented two things:
 - an ardouino glove controller for the lizi robot.
 
 ## more infomation:
-- project report: [presention pdf](https://github.com/omrieitan/yolo_lizi/blob/master/project%20presentation.pdf)
+- project report: [presentaion pdf](https://github.com/omrieitan/yolo_lizi/blob/master/project%20presentation.pdf)
 - preoject video demonstration: [Robotican LTD facebook](https://www.facebook.com/roboticanltd/videos/vb.242350555948333/1289772051163970/?type=2&theater)
 
 ## Authors
